@@ -1,17 +1,10 @@
 /**
- * Created by Stas on 01.09.2018.
+ * Created by Stas on 30.09.2018.
  */
 import java.util.Scanner;
 import  java.io.File;
 import java.util.ArrayList;
 import java.util.*;
-
-
-/**
- * Created by User on 31.08.2018.
- */
-
-
 
 public class Collection {
     Scanner scn;

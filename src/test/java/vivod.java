@@ -1,8 +1,8 @@
-/**
- * Created by Stas on 01.09.2018.
+/** Разработано 30.08.2018
+ * Коллекция
+ * @author Stas
+ * @version
  */
-import  java.io.File;
-
 
 public class vivod {public static void main(String[] args) {
     Collection file =new Collection();
